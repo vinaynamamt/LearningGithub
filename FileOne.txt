@@ -3,3 +3,5 @@ modiyfing the files lines here
 changes are stashed
 
 asdf
+
+fast forward merge strategey
