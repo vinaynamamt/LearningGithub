@@ -1,2 +1,3 @@
 inserting into file two  version v1
-understading git branch command
+understading git branch command.
+stashing the changes in fb branch
