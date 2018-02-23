@@ -1,1 +1,2 @@
 inserting into file two  version v1
+understading git branch command
