@@ -1,2 +1,2 @@
 Rebase command
-testing the rebase command
+esting the rebase command - creating multuple features
