@@ -6,4 +6,3 @@ testing the rebase commansdfd
 Testing the rebase command 
 Testing changes
 commit changes from fb branch
-fast forward merge strategey
