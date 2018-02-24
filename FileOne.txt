@@ -5,4 +5,3 @@ changes are stashed
 asdf
 
 fast forward merge strategey
-fast forward merge strategey 1
