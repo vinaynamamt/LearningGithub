@@ -3,3 +3,4 @@ Creating fb branch
 
 WOrking on feature requirements
 learning merge stragey from fb
+fast forward merge strategey
