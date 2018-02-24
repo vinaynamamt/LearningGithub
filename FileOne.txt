@@ -5,8 +5,12 @@ changes are stashed
 asdf
 
 
+
 doing changes from master branch - 3 way commit merge
 
 fast forward merge strategey
 fast forward merge strategey 1
+
+
+fast forward merge strategey
 

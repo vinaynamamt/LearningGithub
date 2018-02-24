@@ -10,4 +10,3 @@ modified this file in anotherlearningithub repository
 Again modifying this file in learningithub repository
 
 fast forward merge strategey
-fast forward merge strategey1
